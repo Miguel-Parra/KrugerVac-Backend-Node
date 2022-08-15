@@ -1,0 +1,6 @@
+PORT=4000
+PGUSER="zumyqvanryowzi"
+PGHOST="ec2-34-193-44-192.compute-1.amazonaws.com"
+PGPASSWORD="1881f4a334ca9bd5bcfff6ca11832f4084d61b66982077eca386cd60965c69d6"
+PGDATABASE="d73bkmc6f5b1m0"
+PGPORT="5432"
