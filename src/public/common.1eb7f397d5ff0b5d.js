@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKrugerVacFrontend=self.webpackChunkKrugerVacFrontend||[]).push([[592],{9023:(o,e,t)=>{t.d(e,{D_:()=>c,Iy:()=>r,RN:()=>a,om:()=>s,s9:()=>n});const a="([a-zA-Z]+) ([a-zA-Z]+)",n="^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",s="([0-9]{10})",c="^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$",r="([0-9])"}}]);
