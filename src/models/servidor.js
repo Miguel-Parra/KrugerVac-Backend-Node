@@ -25,7 +25,7 @@ class Servidor {
         this.app.use(express.json());
 
         //directorio público
-        this.app.use(express.static('./src/public'))
+        this.app.use(express.static('src/public'))
     }
 
     rutas() {
